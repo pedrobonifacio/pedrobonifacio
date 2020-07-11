@@ -1,10 +1,9 @@
-### Oi Pessoas 👋
- 💬 Me chamo Pedro Bonifácio, estudante, 17.  
+## Oi Pessoas 👋
+
+ 💬 Me chamo Pedro Bonifácio, estudante, 17 anos.  
  🎓 Estou cursando o 1° módulo do curso Técnico em Desenvolvimento de Sistemas na ETEC de ITanhaém.  
- 📚 Atualmente estou estudando nodeJS, express, mysql e javascript.   
- 🌱  Procuro colaborar com projetos front-end que sejam relevantes.   
- 📫 Entre em contato comigo pelo meu email e redes sociais
-  
-   ✉️ [pedroboni.dev@gmail.com](mailto:pedroboni.dev@gmail.com])  
-   🐦 [@PedrBoni](https://twitter.com/PedrBoni)  
-   💼 [pedroboni](https://www.linkedin.com/in/pedroboni/)
+ 📚 Estou estudando nodeJS, express, mysql e javascript.   
+   
+   ✉️ [pedroboni.dev@gmail.com](mailto:pedroboni.dev@gmail.com)  
+   <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png" width="30px"> [@PedrBoni](https://twitter.com/PedrBoni)  
+   <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30px">  [pedroboni](https://www.linkedin.com/in/pedroboni/)

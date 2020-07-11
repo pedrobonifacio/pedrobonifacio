@@ -1,9 +1,7 @@
 ## Oi Pessoas 👋
-
+[![Twitter Badge](https://img.shields.io/badge/-@PedrBoni-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PedrBoni)](https://twitter.com/PedrBoni) [![Linkedin Badge](https://img.shields.io/badge/-pedroboni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroboni)](https://www.linkedin.com/in/pedroboni/) 
+[![Gmail Badge](https://img.shields.io/badge/-pedroboni.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroboni.dev@gmail.com)](mailto:pedroboni.dev@gmail.com)
  💬 Me chamo Pedro Bonifácio, estudante, 17 anos.  
  🎓 Estou cursando o 1° módulo do curso Técnico em Desenvolvimento de Sistemas na ETEC de ITanhaém.  
  📚 Estou estudando nodeJS, express, mysql e javascript.   
-   
-   ✉️ [pedroboni.dev@gmail.com](mailto:pedroboni.dev@gmail.com)  
-   <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png" width="30px"> [@PedrBoni](https://twitter.com/PedrBoni)  
-   <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30px">  [pedroboni](https://www.linkedin.com/in/pedroboni/)
+

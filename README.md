@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**PedroBoni/PedroBoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Oi Pessoas 👋
+ 💬 Me chamo Pedro Bonifácio, estudante, 17.  
+ 🎓 Estou cursando o 1° módulo do curso Técnico em Desenvolvimento de Sistemas na ETEC de ITanhaém.  
+ 📚 Atualmente estou estudando nodeJS, express, mysql e javascript.   
+ 🌱  Procuro colaborar com projetos front-end que sejam relevantes.   
+ 📫 Entre em contato comigo pelo meu email e redes sociais
+  
+   ✉️ [pedroboni.dev@gmail.com](mailto:pedroboni.dev@gmail.com])  
+   🐦 [@PedrBoni](https://twitter.com/PedrBoni)  
+   💼 [pedroboni](https://www.linkedin.com/in/pedroboni/)

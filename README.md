@@ -15,15 +15,15 @@
 
 <div align="center">
    <a href="https://github.com/pedrononi">
-      <img alt="Dino Chrome - Pedro Boni Github" width="450" src="https://github-readme-stats.vercel.app/api?username=pedroboni&theme=dark&show_icons=true" />
+      <img alt="Dino Chrome - Pedro Boni Github" height="200" src="https://github-readme-stats.vercel.app/api?username=pedroboni&theme=dark&show_icons=true" />
    </a>
     <a href="https://github.com/pedrononi">
-      <img alt="Dino Chrome - Pedro Boni Github" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroboni&layout=compact&theme=dark&show_icons=true" />
+      <img alt="Dino Chrome - Pedro Boni Github" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroboni&layout=compact&theme=dark&show_icons=true" />
    </a>
    
 <br>
 <br>
 
-   <img alt="Dino Chrome - Pedro Boni Github" width="350" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+   <img align="center" alt="Dino Chrome - Pedro Boni Github" width="350" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 
 </div>

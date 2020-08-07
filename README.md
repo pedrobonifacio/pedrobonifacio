@@ -14,13 +14,15 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pedroboni.pedroboni)
 
 <div align="center">
-
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedroboni)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroboni)](https://github.com/anuraghazra/github-readme-stats)
-
+   <a href="https://github.com/pedrononi">
+      <img alt="Dino Chrome - Pedro Boni Github" width="450" src="https://github-readme-stats.vercel.app/api?username=pedroboni" />
+   </a>
+    <a href="https://github.com/pedrononi">
+      <img alt="Dino Chrome - Pedro Boni Github" width="450" src="https://github-readme-stats.vercel.app/api?username=pedroboni" />
+   </a>
+   
 <br>
 
-   <img align="right" alt="Dino Chrome - Pedro Boni Github" width="350" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+   <img alt="Dino Chrome - Pedro Boni Github" width="350" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 
 </div>

@@ -19,7 +19,8 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroboni)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
 
-  ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+   <img align="right" alt="Dino Chrome - Pedro Boni Github" width="350" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 
 </div>

@@ -6,7 +6,7 @@
     <a href="https://linkedin.com/in/pedroboni">
       <img align="right" style="margin:0.2rem" alt="Pedro Boni Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a>
-    <a href="https://github.com/pedroboni">
+    <a href="https://github.com/PedroBoni">
       <img align="right" style="margin:0.2rem" alt="Pedro Boni Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
     </a>  
 </h1>

@@ -16,3 +16,9 @@
 <div align="center"> 
    <img align="center" alt="Dino Chrome - Pedro Boni Github" width="350" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 </div>
+<br>
+<div align="center"> 
+   <a href="https://app.daily.dev/pedrobonifacio">
+      <img src="https://api.daily.dev/devcards/faba1482557842b0a52e06d7b35e509c.png?r=8f7" width="400" alt="Pedro Bonifacio's Dev Card"/>
+   </a>
+</div>

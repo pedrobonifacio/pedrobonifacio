@@ -11,9 +11,10 @@
     </a>  
 </h1>
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=PedroBoni" alt="visitors"/>
 
 <div align="center"> 
-   <img align="center" alt="Dino Chrome - Pedro Boni Github" width="350" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+   <img align="center" alt="Dino Chrome - Pedro Boni Github" width="35%" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 </div>
 <br>
 
@@ -24,20 +25,21 @@
     - ReactJs   
    
   
+<div align="center"> 
+   <img align="center" alt="Stats - Pedro Boni Github" width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroBoni&theme=dracula" />
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroBoni&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroBoni&theme=dracula) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroBoni&theme=dracula) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroBoni&theme=dracula) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroBoni&theme=dracula)
+<br>
 
-<p align="left">
-<a href="https://github.com/PedroBoni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBoni&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBoni&layout=compact&theme=dracula"/>
-</a>
-</p>
+<div align="center"> 
+   <img align="center" alt="Stats - Pedro Boni Github" width="47.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroBoni&theme=dracula" />
+    <img align="center" alt="Stats - Pedro Boni Github" width="47.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroBoni&theme=dracula" />
+</div>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=PedroBoni" alt="visitors"/>
+<br>
 
+<div align="center"> 
+   <img align="center" alt="Stats - Pedro Boni Github" width="47.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroBoni&theme=dracula" />
+    <img align="center" alt="Stats - Pedro Boni Github" width="47.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroBoni&theme=dracula" />   
+</div>
 

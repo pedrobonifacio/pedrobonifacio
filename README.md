@@ -11,14 +11,33 @@
     </a>  
 </h1>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=pedroboni.pedroboni)
 
 <div align="center"> 
    <img align="center" alt="Dino Chrome - Pedro Boni Github" width="350" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 </div>
 <br>
-<div align="center"> 
-   <a href="https://app.daily.dev/pedrobonifacio">
-      <img src="https://api.daily.dev/devcards/faba1482557842b0a52e06d7b35e509c.png?r=8f7" width="400" alt="Pedro Bonifacio's Dev Card"/>
-   </a>
-</div>
+
+    Hi, i'm Pedro 
+    
+    - Full Stack Developer
+    - NodeJs 
+    - ReactJs   
+   
+  
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroBoni&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroBoni&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroBoni&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroBoni&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroBoni&theme=dracula)
+
+<p align="left">
+<a href="https://github.com/PedroBoni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBoni&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBoni&layout=compact&theme=dracula"/>
+</a>
+</p>
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=PedroBoni" alt="visitors"/>
+
+
